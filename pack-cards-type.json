@@ -1,0 +1,38 @@
+[
+    {
+        "type": "silver",
+        "value": 200,
+        "very_common": 40,
+        "common": 30,
+        "uncommon": 20,
+        "rare": 6,
+        "very_rare": 3,
+        "epic": 0.5,
+        "legendary": 0.2
+    },
+        
+    {
+        "type": "gold",
+        "value": 500,
+        "very_common": 32,
+        "common": 25,
+        "uncommon": 25,
+        "rare": 10,
+        "very_rare": 5,
+        "epic": 1,
+        "legendary": 0.5
+    },
+        
+    {
+        "type": "platinum",
+        "value": 1000,
+        "very_common": 25,
+        "common": 20,
+        "uncommon": 22,
+        "rare": 15,
+        "very_rare": 9,
+        "epic": 2,
+        "legendary": 1.5
+    }
+    
+]
